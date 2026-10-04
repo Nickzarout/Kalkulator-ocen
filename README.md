@@ -1,0 +1,2 @@
+# Kalkulator-ocen
+prywatne
